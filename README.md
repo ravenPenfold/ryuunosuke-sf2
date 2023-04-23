@@ -1,4 +1,6 @@
 # Ryuunosuke Soundfont 2 Bank
+![General Midi Logo](https://raw.githubusercontent.com/ryanpenfold/ryuunosuke-sf2/main/img/gm.png)
+
 Royalty Free and Open Source soundfont. Designed for CorsixTH by Ryan "Edgewurth" Penfold.
 
 ## Licensing & Terms of Use
